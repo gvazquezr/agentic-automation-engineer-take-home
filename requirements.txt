@@ -1,0 +1,3 @@
+# The baseline agent and tools use only the Python standard library.
+# Add your own dependencies (LLM SDKs, schema validators, test runners,
+# etc.) as you build the harness.
